@@ -1,4 +1,4 @@
-Code:
+//Code:
 package com.fh.logfile.IORegex;
 
 import java.util.concurrent.atomic.AtomicInteger;
@@ -115,6 +115,6 @@ Overload prevention! Cannot safely consume 10, current charge too low.
 Thread-2 could not consume due to overload control.
 Overload prevention! Cannot safely consume 15, current charge too low.
 Thread-0 could not consume due to overload control.
-*/
 Overload prevention! Cannot safely consume 25, current charge too low.
 Thread-1 could not consume due to overload control.
+*/
