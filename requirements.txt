@@ -1,0 +1,24 @@
+# Java Development Environment
+Java Development Kit (JDK) 11 or higher
+
+# Build Tool (Optional)
+Apache Maven (Optional, for dependency management)
+
+# Libraries/Dependencies
+No external libraries required. The project uses Java's core concurrency utilities.
+
+# IDE (Optional)
+IntelliJ IDEA, Eclipse, or any Java-supporting IDE for easier development and debugging.
+
+# File Structure
+Ensure the following directory structure:
+- src/main/com/fh/logfile/IORegex/EnergyUsageSimulation.java
+- src/main/concurrency/BatteryChargingSimulation.java
+- src/main/concurrency/EnergySource.java
+- src/main/concurrency/Battery.java
+- docs/ConcurrencyAnalysis.md
+
+# Test Environment
+- Windows, macOS, or Linux OS
+- Minimum RAM: 4GB
+- Java Runtime Environment (JRE) 11 or higher installed
