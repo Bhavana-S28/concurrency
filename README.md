@@ -1,8 +1,8 @@
-**Role distribution:**
+# Role distribution:
 
-**1.Bhavana Shivaraju**
+## Bhavana Shivaraju
 
-**a.Energy Usage Simulation:**
+### a.Energy Usage Simulation:
 
 Implemented the EnergyUsageSimulation class to simulate multiple energy consumers drawing power from a shared battery resource.
 **Used:**
@@ -10,7 +10,7 @@ Implemented the EnergyUsageSimulation class to simulate multiple energy consumer
 -AtomicInteger for managing thread-safe numeric operations.
 Focused on preventing system overload by incorporating safe thresholds for energy consumption.
 Demonstrated thread-safe operations and proper resource management.
-**b.Features**:
+### b.Features:
 
 **Multi-threaded Energy Consumption:**
 Simulated threads representing energy-consuming devices.
@@ -18,22 +18,22 @@ Controlled access to the battery to avoid unsafe depletion.
 **Dynamic Behavior:**
 Introduced concurrency mechanisms to simulate real-time energy usage scenarios.
 
-**2.Mohammad Ali Moradi
-a.Battery Charging Simulation:**
+## Mohammad Ali Moradi
+### a.Battery Charging Simulation:
 
 Developed the BatteryChargingSimulation class to simulate multiple energy sources charging a shared battery.
 **Implemented:**
 Thread-based EnergySource class to model charging entities (e.g., Solar Panels, Wind Turbines).
 Used thread synchronization to ensure consistent battery updates and prevent race conditions.
-**b.Features:**
+### b.Features:
 
 **Concurrent Charging:**
 Simulated threads representing multiple energy sources charging a single battery.
 **Thread Coordination:**
 Used Thread.join() to ensure all threads complete their operations before displaying the final battery charge.
 
-**3.Aftab Makbul Makandar
-a.Theoretical Analysis:**
+## Aftab Makbul Makandar
+### a.Theoretical Analysis:
 
 **Topics Covered:**
 
